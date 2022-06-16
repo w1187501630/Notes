@@ -5,7 +5,6 @@
 - ### FusionCompute
     - #### [1.FusionCompute认识](FusionCompute/FusionCompute认识.md)
 
-- ### [LeetCode](LeetCode/README.md)
 
 - ### [Git 相关使用](Git/README.md)
     - #### [1.gitmoji](./gitmoji.md)
@@ -14,3 +13,9 @@
     - #### [3.同一台电脑配置多个github账号](Git/同一台电脑配置多个github账号.md)
 
     - #### [4.Git拉取仓库的部分文件](Git/Git拉取仓库的部分文件.md)
+
+
+    
+- ### [LeetCode](LeetCode/README.md)
+
+- ### [Linux 相关](Linux/README.md)
