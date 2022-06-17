@@ -7,7 +7,7 @@
 
 
 - ### [Git 相关使用](Git/README.md)
-    - #### [1.gitmoji](./gitmoji.md)
+    - #### [1.gitmoji](Git/gitmoji.md)
 
     - #### [2.常用Git命令](Git/常用Git命令.md)
     - #### [3.同一台电脑配置多个github账号](Git/同一台电脑配置多个github账号.md)
